@@ -1,0 +1,281 @@
+{
+  "files" : {
+    ".backups/2019-01-29 03.20.22.zip" : {
+      "sha1" : "YJmbUsmxc+6Gqhj5k2cKfAOK/LI=",
+      "size" : 2824
+    },
+    ".backups/2019-01-29 03.21.22.zip" : {
+      "sha1" : "eQW5rJjrmSY3IbbCU5uJQ4uiWTk=",
+      "size" : 3310
+    },
+    ".backups/2019-01-29 03.22.23.zip" : {
+      "sha1" : "2d1O2v3XELC4fQJNzMR0UbF4G3I=",
+      "size" : 3297
+    },
+    ".backups/2019-01-29 03.23.24.zip" : {
+      "sha1" : "6NcQOmrv50LUss5AgPuWE+NbV5w=",
+      "size" : 3279
+    },
+    ".backups/2019-01-29 03.31.26.zip" : {
+      "sha1" : "1S1KyAEeMa5pu4qDWoC2pIOjmTw=",
+      "size" : 3954
+    },
+    ".backups/2019-01-29 03.32.26.zip" : {
+      "sha1" : "t1O+n1/WMujQPab9aS1s1N2+CBk=",
+      "size" : 4060
+    },
+    ".backups/2019-01-29 03.33.26.zip" : {
+      "sha1" : "mKqWlbY4WlzUcidNBhNUmVxmmmQ=",
+      "size" : 4408
+    },
+    ".backups/2019-01-29 03.34.27.zip" : {
+      "sha1" : "oqnJkKz+CoZpCE1IMZsFf47PcTs=",
+      "size" : 4873
+    },
+    ".backups/2019-01-29 03.35.28.zip" : {
+      "sha1" : "A43I1icFgKITlpU4yPmBfAFnVIc=",
+      "size" : 5164
+    },
+    ".backups/2019-01-29 03.44.56.zip" : {
+      "sha1" : "SxJBk+jR5HUChI11EDapje2DEyA=",
+      "size" : 5156
+    },
+    ".backups/2019-01-29 03.45.56.zip" : {
+      "sha1" : "K14DOpJLqpE4r2I2oDbp03x4/VI=",
+      "size" : 5215
+    },
+    ".backups/2019-01-29 03.46.57.zip" : {
+      "sha1" : "Zou6OThJpKnJssAQhrOkbkgpUb0=",
+      "size" : 5488
+    },
+    ".backups/2019-01-29 03.47.58.zip" : {
+      "sha1" : "iZRRmDvoT8cWfjOeCVRQ/UPkuvE=",
+      "size" : 5124
+    },
+    ".backups/2019-01-29 03.48.59.zip" : {
+      "sha1" : "8LFVoR8pbi7CXFoVbGsZiFaQhlg=",
+      "size" : 5270
+    },
+    ".backups/2019-01-29 03.50.00.zip" : {
+      "sha1" : "+kQpvmzz+aj2mhycX9BPJ2YLqt8=",
+      "size" : 5849
+    },
+    ".backups/2019-01-29 03.51.00.zip" : {
+      "sha1" : "M+gq/qo1Bh7skIpPhf9QOwSv134=",
+      "size" : 5839
+    },
+    ".backups/2019-01-29 03.52.00.zip" : {
+      "sha1" : "p1L7iTjyZP8NP+3Y7AJCFyhYTOA=",
+      "size" : 5951
+    },
+    ".backups/2019-01-29 03.53.01.zip" : {
+      "sha1" : "MfBPbdcdKd1KmVdBeXopJ1v0sVA=",
+      "size" : 5295
+    },
+    ".backups/2019-01-29 03.54.01.zip" : {
+      "sha1" : "koYrRSsAOjnR7/aFkcqs2AwPE/4=",
+      "size" : 5350
+    },
+    ".backups/2019-01-29 03.55.01.zip" : {
+      "sha1" : "eGIDMzaAEU7Y9yAcrXySxCiGs/Q=",
+      "size" : 5383
+    },
+    ".backups/2019-01-29 03.57.01.zip" : {
+      "sha1" : "S9OljhoRsbr1S7UaJ/HhXje06hc=",
+      "size" : 5458
+    },
+    ".backups/2019-01-29 03.58.02.zip" : {
+      "sha1" : "tuIksQhg5nOvrCmB6uBYBuFq4vM=",
+      "size" : 5458
+    },
+    ".backups/2019-01-29 03.59.03.zip" : {
+      "sha1" : "Y2XOgLpIj0RmCAU3jq2+QohzbQc=",
+      "size" : 5458
+    },
+    ".backups/2019-01-29 04.03.09.zip" : {
+      "sha1" : "zSw08MS1IdOkvtrIx041tAyGr7s=",
+      "size" : 5662
+    },
+    ".backups/2019-01-29 04.06.10.zip" : {
+      "sha1" : "vMSejVntaUEUb66kmzmSZZe0F0c=",
+      "size" : 5718
+    },
+    ".backups/2019-01-29 04.07.11.zip" : {
+      "sha1" : "CniYONcLo4YizQ6z8NgjNqaSEqU=",
+      "size" : 5731
+    },
+    ".backups/2019-01-29 04.08.11.zip" : {
+      "sha1" : "MbdFhLbx09FspRrs7M+iILj9xSw=",
+      "size" : 5740
+    },
+    ".backups/2019-01-29 04.09.12.zip" : {
+      "sha1" : "JM7cakF7iIY4jkKJaU6NF+LEJuo=",
+      "size" : 5772
+    },
+    ".backups/2019-01-29 04.12.13.zip" : {
+      "sha1" : "ZGZK8xsS5TK2sn/z0ahrKaHCd9o=",
+      "size" : 5788
+    },
+    ".backups/2019-01-29 04.22.26.zip" : {
+      "sha1" : "CqadxxigXspkv6WBG5SH834GjQM=",
+      "size" : 5801
+    },
+    ".backups/2019-01-29 04.24.27.zip" : {
+      "sha1" : "xF2ebkar1MzIkWdiM73wsEbVXGc=",
+      "size" : 5860
+    },
+    ".backups/2019-01-29 04.25.28.zip" : {
+      "sha1" : "cwWL9YLXbwSKYu8I7I59Gerv9cE=",
+      "size" : 5808
+    },
+    ".backups/2019-01-29 04.28.32.zip" : {
+      "sha1" : "reAwJ0D7CW53c2W8C/dSBpeeKMk=",
+      "size" : 5835
+    },
+    ".backups/2019-01-29 04.29.32.zip" : {
+      "sha1" : "JRElN2ojWVXv2/L3dY+ovE2WJbw=",
+      "size" : 5859
+    },
+    ".backups/2019-01-29 04.30.33.zip" : {
+      "sha1" : "jrupfdOZnX2vaE7j5g0aM9aHyUM=",
+      "size" : 5894
+    },
+    ".backups/2019-01-29 04.31.34.zip" : {
+      "sha1" : "1I7e2+BzgHI6D7QUw5/BSvqy1XI=",
+      "size" : 5909
+    },
+    ".backups/2019-01-29 04.32.34.zip" : {
+      "sha1" : "jsR9qleCKivbfFLEuxmfDMRGprY=",
+      "size" : 5911
+    },
+    ".backups/2019-01-29 04.33.35.zip" : {
+      "sha1" : "y2rvWS5eAtMs4Hmw3wlHz37f3Fw=",
+      "size" : 5922
+    },
+    ".backups/2019-01-29 04.34.35.zip" : {
+      "sha1" : "5Dihj/1Swc5rAihH5lz6ZYv8/jk=",
+      "size" : 5910
+    },
+    ".backups/2019-01-29 04.35.35.zip" : {
+      "sha1" : "veqgGc1Ls6sH5TDD9RTMXs8GuL8=",
+      "size" : 5907
+    },
+    ".backups/2019-01-29 05.10.11.zip" : {
+      "sha1" : "UiFWlxbKx/4ua46EsnE2Tk14fxY=",
+      "size" : 5876
+    },
+    ".backups/2019-02-17 07.37.49.zip" : {
+      "sha1" : "6rkYRzUGLYww5k7CJFehCd/CWXE=",
+      "size" : 5887
+    },
+    ".yarnignore" : {
+      "sha1" : "SjOjLrZ6naANd4Um5YZ+asHhTTg=",
+      "size" : 53
+    },
+    "build/Draft.css" : {
+      "sha1" : "EAhzGU2fx321Jor9Yku/eL05a9w=",
+      "size" : 4279
+    },
+    "build/framer.js" : {
+      "sha1" : "JdkAWwV1wgTSNm4gOvvzPl5ct8s=",
+      "size" : 519494
+    },
+    "build/index.js" : {
+      "sha1" : "HmLuovJFX0ioxrVZwfAKdE5U5uI=",
+      "size" : 253604
+    },
+    "build/react-dom.development.js" : {
+      "sha1" : "nQs4dfjb25VVDNzTtFfYbuF1KQY=",
+      "size" : 641575
+    },
+    "build/react.development.js" : {
+      "sha1" : "2q2WObxZivmxSruU7BgBgScrCw0=",
+      "size" : 59086
+    },
+    "build/standalone.js" : {
+      "sha1" : "u/SdhIlWrJGVpB46QqnDODUw/p0=",
+      "size" : 72337
+    },
+    "build/style.css" : {
+      "sha1" : "RJmszaPYXj2PnF6BxLHsPxRgrS4=",
+      "size" : 5171
+    },
+    "code/App.tsx" : {
+      "sha1" : "FVeff0NF7LjrYRjL/brCFknTm1o=",
+      "size" : 2084
+    },
+    "code/canvas.tsx" : {
+      "sha1" : "XAWJ2Vc6zFl/c1ILjaRwb7ijf8Q=",
+      "size" : 179
+    },
+    "code/Examples.tsx" : {
+      "sha1" : "lUV35hS3rcE/Vwe/FKuuRgzCdDc=",
+      "size" : 1396
+    },
+    "code/utils.js" : {
+      "sha1" : "MKxwyUh6qWn5KKdIvLinG6YXa+4=",
+      "size" : 97
+    },
+    "design/assets/Video by syo_ever-BtIt2qRnrt9.mp4" : {
+      "sha1" : "wO6NAanSc5ElDiyGo0tAXe0DdiA=",
+      "size" : 2038871
+    },
+    "design/document.json" : {
+      "sha1" : "ZsaysrnxKH3kOrEo+quFbVwjvWA=",
+      "size" : 53966
+    },
+    "design/images/dGMEwTfoQzhAtqCQcnrIPo1uI.png" : {
+      "sha1" : "dGM+EwTfoQzhAtqCQcnrIPo/1uI=",
+      "size" : 65257
+    },
+    "design/images/KnpcZRFY8vV2CSg23KGIbbJuvo.png" : {
+      "sha1" : "KnpcZRFY8vV2CS+g23KGIbbJuvo=",
+      "size" : 42902
+    },
+    "design/images/SHc1KPuw5kKudWIicBQMQuFFK4.png" : {
+      "sha1" : "SHc1KPuw5kKudWIi/cBQMQuFFK4=",
+      "size" : 659702
+    },
+    "design/images/YkGeO5MOdu2jpSTQOXuKlEuncI.png" : {
+      "sha1" : "YkGeO5MOd+u2jpSTQOXuKlEuncI=",
+      "size" : 71345
+    },
+    "images/cursors/touch-active.png" : {
+      "sha1" : "fYes+h/mpvrQ2z1kPVs0zEFuq5M=",
+      "size" : 2965
+    },
+    "images/cursors/touch-active@2x.png" : {
+      "sha1" : "IrXS4p49TPUF4VVjiAv5LzffmHE=",
+      "size" : 7792
+    },
+    "images/cursors/touch.png" : {
+      "sha1" : "ZR96UUIDd4QXZOPSsRSgZvDjWb4=",
+      "size" : 2912
+    },
+    "images/cursors/touch@2x.png" : {
+      "sha1" : "RiwOB1M8Lzb2/NU+mdjR1VBhicM=",
+      "size" : 8384
+    },
+    "index.html" : {
+      "sha1" : "QnejnrQ/aPHi9Z6k9oXnbZUW0jM=",
+      "size" : 275242
+    },
+    "package.json" : {
+      "sha1" : "/bInjfUDQ/yYvFsutSElZP831WQ=",
+      "size" : 395
+    },
+    "README.md" : {
+      "sha1" : "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
+      "size" : 0
+    },
+    "tsconfig.json" : {
+      "sha1" : "aDUBWFOOLiSHozHi3fLJW+KdiYY=",
+      "size" : 277
+    },
+    "yarn.lock" : {
+      "sha1" : "z6pyLr2NV32DMS2/1ZNxiwxQq5w=",
+      "size" : 1043
+    }
+  },
+  "uuid" : "6E998FFD-0FB7-4EE0-A988-957D87468C9A"
+}
